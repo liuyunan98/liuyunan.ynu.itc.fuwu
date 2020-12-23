@@ -23,12 +23,12 @@
             border-radius: 0 0 10px 15px;
         }
         .grad1 {
-            width: 75%;
-            height: 10px;
+            width: 50%;
+            height: 25px;
             background-color: red; /* 不支持线性的时候显示 */
             background-image: linear-gradient(to bottom right, rgba(249,235,234,0.9) , aquamarine);
             /*box-shadow: 0 0 70px 30px rgb(49, 154, 67) inset;*/
-            border-radius: 0 15px 15px 15px;
+            border-radius: 0 15px 0 0;
             border-color:white ;
             font-family: 方正姚体;
             font-size: 45px;
@@ -69,7 +69,8 @@
             box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
             text-align: center;
             width: 475px;
-            border-radius: 15px 15px 0px 0px;
+            border-radius: 15px 15px 10px 10px;
+            background-image: linear-gradient(to bottom right, greenyellow , azure);
         }
         div.header {
             /*background-color: #4CAF50;*/
@@ -79,7 +80,7 @@
             padding: 0;
             margin-top: 2px;
             font-size: 40px;
-            height: 130px;
+            height: 200px;
             border-radius: 15px 15px 0 0 ;
         }
         div.container {
@@ -89,7 +90,7 @@
             text-decoration: none;
             color: black;
             font-family: "微软雅黑 Light";
-            font-size: x-large;
+            font-size: xx-large;
             font-weight: bolder;
         }
         .text{
@@ -97,10 +98,11 @@
             text-decoration: none;
             color: white;
             font-family: "微软雅黑 Light";
-            font-size:xx-large;
+            font-size: larger;
             width: 100%;
             font-weight: 400;
             font-variant: small-caps;
+            line-height: 100px;
         }
     </style>
 </head>
@@ -125,8 +127,9 @@
     <tr>
         <th rowspan="2">
             <div class="card">
-                <div class="header" style="height: 380px">
-                    <p><a href="https://ids.ynu.edu.cn/authserver/" class="text" style="font-size: 45px;line-height: 110px">统一身份认证<br>绑定手机号<br>(自助服务)</a></p>
+                <div class="header" style="height: 530px">
+                    <p><a href="https://ids.ynu.edu.cn/authserver/" class="text" style="font-size: larger;line-height: 110px">统一身份认证<br>绑定手机号<br>(自助服务)</a></p>
+                    <P class="text" style="font-size: xx-large">(仅限未忘记密码的用户使用)</P>
                 </div>
                 <div class="container">
                     <p><a href="https://ids.ynu.edu.cn/authserver/" class="link">立即进入</a></p>
@@ -139,7 +142,7 @@
                 <!--                    <textarea class="text">Unified Identity Authentication</textarea>-->
                 <!--                    <textarea class="text1">Bind mobile phone & email</textarea>-->
                 <!--                    <textarea class="text2">(Teachers and Students at School)</textarea>-->
-                <div class="header">
+                <div class="header" style="background-image: linear-gradient(to bottom right, greenyellow , hotpink);">
                     <p><a href="https://jiandaoyun.com/f/5b0e47df54138a7e02de04e2" class="text">统一身份认证<br>绑定手机号(在校师生)</a></p>
                 </div>
                 <div class="container">
@@ -152,7 +155,7 @@
 
         <td>
             <div class="card">
-                 <div class="header">
+                 <div class="header" style="background-image: linear-gradient(to bottom right, greenyellow , pink);">
                     <p><a href="https://jiandaoyun.com/f/5b0e4413b49386633741c1f6" class="text">统一身份认证<br>绑定手机号(外聘人员)</a></p>
                 </div>
                 <div class="container">
@@ -179,7 +182,7 @@
 
         <td>
             <div class="card">
-               <div class="header">
+               <div class="header" style="background-image: linear-gradient(to bottom right, greenyellow , lightsalmon);">
                     <p><a href="https://jiandaoyun.com/f/5b0cbe28e7d0143a005810a4" class="text">上网账号/VPN账号<br>绑定手机号</a></p>
                 </div>
                 <div class="container">
@@ -189,7 +192,7 @@
         </td>
         <td>
             <div class="card">
-                <div class="header">
+                <div class="header" style="background-image: linear-gradient(to bottom right, greenyellow , lightpink);">
                     <p><a href="http://www.itc.ynu.edu.cn/info/1012/1072.htm" class="text">申请VPN账号<br> (博士生/博士后)</a></p>
                 </div>
                 <div class="container">
@@ -216,7 +219,7 @@
 <!--        </td>-->
         <td>
             <div class="card">
-                <div class="header">
+                <div class="header" style="background-image: linear-gradient(to bottom right, greenyellow , lightskyblue);">
                     <p><a href="https://jiandaoyun.com/f/5afe3659f9e8ef12024a838f" class="text">一卡通APP<br>绑定手机号</a></p>
                 </div>
                 <div class="container">
@@ -226,7 +229,7 @@
         </td>
         <td>
             <div class="card">
-                <div class="header">
+                <div class="header" style="background-image: linear-gradient(to bottom right, greenyellow , orange);">
                     <p><a href="http://www.ynu.edu.cn/info/1005/4679.htm" class="text">一卡通APP<br>下载安装(android/ios)</a></p>
                 </div>
                 <div class="container">
@@ -252,7 +255,7 @@
 <!--        </td>-->
         <th rowspan="3">
             <div class="card">
-                <div class="header" style="height: 620px">
+                <div class="header" style="height: 650px; background-image: linear-gradient(to bottom right, greenyellow , aquamarine);">
                     <p><a href="http://www.itc.ynu.edu.cn/html/index.html?action=link&nodeurl=../info/1014/1194.htm&nodetype=service" class="text" style="font-size: 45px;line-height: 130px; ">疫情期间<br>ZOOM平台<br>云大邮箱批量申请</a></p>
                 </div>
                 <div class="container">
@@ -262,8 +265,8 @@
         </th>
         <td>
             <div class="card">
-                <div class="header">
-                    <p><a href="https://jiandaoyun.com/f/5b0cc2a7f8dc526f6d93b9e8" class="text">申请电子邮箱<br>(教职工/学生)</a></p>
+                <div class="header" style="height: 130px">
+                    <p><a href="https://jiandaoyun.com/f/5b0cc2a7f8dc526f6d93b9e8" class="text" style="line-height: 130px">申请电子邮箱</a></p>
                 </div>
                 <div class="container">
                     <p><a href="https://jiandaoyun.com/f/5b0cc2a7f8dc526f6d93b9e8" class="link">立即申请</a></p>
@@ -286,7 +289,7 @@
 <!--        </td>-->
         <td>
             <div class="card">
-                <div class="header">
+                <div class="header" style="height: 130px">
                     <p><a href="https://jiandaoyun.com/f/5b0e410933174065ee357d39" class="text" style="line-height: 130px">解锁邮箱/重置密码</a></p>
                 </div>
                 <div class="container">
@@ -299,8 +302,8 @@
     <tr>
         <td>
             <div class="card">
-                <div class="header">
-                    <p><a href="https://jiandaoyun.com/f/5b0cc9ce2c7b1a6f6733d5bd" class="text">邮箱扩容<br>(教职工/学生)</a></p>
+                <div class="header" style="height: 130px">
+                    <p><a href="https://jiandaoyun.com/f/5b0cc9ce2c7b1a6f6733d5bd" class="text" style="line-height: 130px">邮箱扩容</a></p>
                 </div>
                 <div class="container">
                     <p><a href="https://jiandaoyun.com/f/5b0cc9ce2c7b1a6f6733d5bd" class="link">立即申请</a></p>
@@ -325,8 +328,8 @@
     <tr>
         <td>
             <div class="card">
-                <div class="header">
-                    <p><a href="https://jiandaoyun.com/f/5b0e4b40ebd6f565fe338b7e" class="text" style="line-height: 130px">校园网络问题</a></p>
+                <div class="header" style="background-image: linear-gradient(to bottom right, greenyellow , lawngreen);">
+                    <p><a href="https://jiandaoyun.com/f/5b0e4b40ebd6f565fe338b7e" class="text" style="line-height: 200px">校园网络问题</a></p>
                 </div>
                 <div class="container">
                     <p><a href="https://jiandaoyun.com/f/5b0e4b40ebd6f565fe338b7e" class="link">点击提交</a></p>
@@ -335,8 +338,8 @@
         </td>
         <td>
             <div class="card">
-                <div class="header">
-                    <p> <a href="https://jiandaoyun.com/f/5bbc0dbacd8038436f786fc1" class="text" style="line-height: 130px">校内应用异常</a></p>
+                <div class="header" style="background-image: linear-gradient(to bottom right, greenyellow , lime);">
+                    <p> <a href="https://jiandaoyun.com/f/5bbc0dbacd8038436f786fc1" class="text" style="line-height: 200px">校内应用异常</a></p>
                 </div>
                 <div class="container">
                     <p><a href="https://jiandaoyun.com/f/5bbc0dbacd8038436f786fc1" class="link">点击提交</a></p>
@@ -356,13 +359,13 @@
 <!--        </td>-->
     </tr>
 </table>
-<h1 class="grad1">校历校车纵览</h1>
+<h1 class="grad1">校历校车</h1>
 <table class="table">
     <tr>
         <td>
             <div class="card">
                 <div class="header">
-                    <p> <a href="https://www.ynu.edu.cn/0000.jpg" class="text" style="line-height: 130px">云大校历</a></p>
+                    <p> <a href="https://www.ynu.edu.cn/0000.jpg" class="text" style="line-height: 200px">云大校历</a></p>
                 </div>
                 <div class="container">
                     <p><a href="https://www.ynu.edu.cn/0000.jpg" class="link">点击查看</a></p>
@@ -371,8 +374,8 @@
         </td>
         <td>
             <div class="card">
-                <div class="header">
-                    <p><a href="http://www.hqjt.ynu.edu.cn/schoolbus/675.jhtml" class="text" style="line-height: 130px">校车时刻表</a></p>
+                <div class="header" style="background-image: linear-gradient(to bottom right, greenyellow , lightskyblue);">
+                    <p><a href="http://www.hqjt.ynu.edu.cn/schoolbus/675.jhtml" class="text">云大校车<br>时刻表</a></p>
                 </div>
                 <div class="container">
                     <p><a href="http://www.hqjt.ynu.edu.cn/schoolbus/675.jhtml" class="link">点击查看</a></p>
@@ -386,8 +389,8 @@
     <tr>
         <td>
             <div class="card">
-                <div class="header">
-                    <p><a href="https://link.jiandaoyun.com/f/5c9b04f13a8450248195bd22" class="text" style="line-height: 130px">意见和反馈</a></p>
+                <div class="header" style="background-image: linear-gradient(to bottom right, greenyellow , lightsalmon);">
+                    <p><a href="https://link.jiandaoyun.com/f/5c9b04f13a8450248195bd22" class="text" style="line-height: 200px">意见和反馈</a></p>
                 </div>
 
                 <div class="container">

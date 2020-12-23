@@ -25,22 +25,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41320060-4586-43c8-959a-cd5f7cbe6292" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/imgoverseas/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgoverseas/1.tongyi_zaixiao.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgoverseas/10.email_expansion.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgoverseas/11.question_net.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgoverseas/12.question_app.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgoverseas/13.feedback.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgoverseas/14.xiaoli.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgoverseas/15.xiaoche.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgoverseas/2.tongyi_waipin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgoverseas/3.tongyi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgoverseas/4.shangwang.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgoverseas/5.vpn.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgoverseas/6.yikatong.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgoverseas/7.yikatong_download.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgoverseas/8.email_count.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgoverseas/9.email_unlock.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/overseas.html" beforeDir="false" afterPath="$PROJECT_DIR$/overseas.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608689840563</updated>
       <workItem from="1608689842418" duration="21162000" />
+      <workItem from="1608729804447" duration="3676000" />
     </task>
     <servers />
   </component>
@@ -89,6 +75,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1608713467213">
