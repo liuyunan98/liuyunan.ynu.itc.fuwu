@@ -1,6 +1,6 @@
 - name: 疫情期间Zoom平台云大邮箱批量申请
   description: 疫情期间如果您使用Zoom平台在线教学，可以请学院统一收集老师信息，填报“Zoom平台云大邮箱批量申请表”，然后通过OA发给信息技术中心，左继蓉老师账号，统一从后台批量处理。
-  url: http://www.itc.ynu.edu.cn/html/index.html?action=link&nodeurl=../info/1014/1194.htm&nodetype=service
+  url: http://www.itc.ynu.edu.cn/html/overseas.html?action=link&nodeurl=../info/1014/1194.htm&nodetype=service
   label: 点击查看详情
 
 - name: 统一身份认证绑定手机号&电子邮箱（在校师生）
