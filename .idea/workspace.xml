@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -46,6 +49,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -76,6 +85,8 @@
       <workItem from="1608778613206" duration="35000" />
       <workItem from="1608778798423" duration="1378000" />
       <workItem from="1608780259267" duration="74000" />
+      <workItem from="1608789594428" duration="4558000" />
+      <workItem from="1608794755227" duration="1944000" />
     </task>
     <servers />
   </component>
@@ -95,9 +106,13 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1608713467213">
+    <state x="525" y="245" key="run.anything.popup" timestamp="1608795173678">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1608713467213" />
+    <state x="525" y="245" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1608795173678" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1608790138662">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1608790138662" />
   </component>
 </project>
