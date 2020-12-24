@@ -29,6 +29,7 @@
   <component name="ChangeListManager">
     <list default="true" id="41320060-4586-43c8-959a-cd5f7cbe6292" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/overseas.html" beforeDir="false" afterPath="$PROJECT_DIR$/overseas.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,6 +92,7 @@
       <workItem from="1608797623251" duration="460000" />
       <workItem from="1608798410331" duration="44000" />
       <workItem from="1608798597065" duration="158000" />
+      <workItem from="1608811291460" duration="3348000" />
     </task>
     <servers />
   </component>
@@ -110,13 +112,17 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="656" y="325" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608811728451">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="656" y="325" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1608811728451" />
     <state x="525" y="245" key="run.anything.popup" timestamp="1608795173678">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="525" y="245" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1608795173678" />
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1608790138662">
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1608816938109">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1608790138662" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1608816938109" />
   </component>
 </project>
