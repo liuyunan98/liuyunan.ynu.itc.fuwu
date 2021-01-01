@@ -17,13 +17,14 @@
 
         }
         .head_img{
-            width: 100%;
+            width: 99%;
             height: auto;
             border-radius: 15px 15px 15px 15px;
+            margin: 0px auto;
         }
         .grad1 {
-            width: 95%;
-            height: 25px;
+            width: 99%;
+            height: 35px;
             background-color: red; /* 不支持线性的时候显示 */
             background-image: linear-gradient(to top right, rgba(249,235,234,0.9) , white);
             /*box-shadow: 0 0 70px 30px rgb(49, 154, 67) inset;*/
@@ -32,7 +33,7 @@
             font-family: 微软雅黑;
             font-size: 35px;
             line-height: 35px;
-            margin-left: 10px;
+            margin-left: 0px;
             padding: 10px;
             text-transform: uppercase;
         }
@@ -46,8 +47,8 @@
         }
         .table{
             border-color: aquamarine;
-            width: 100%;
-            margin-top: 0;
+            width: 99%;
+            margin-top: 5px;
         }
         .footimg {
             width: 100%;
@@ -72,8 +73,8 @@
             min-width: 475px;
             border-radius: 25px 25px 25px 25px;
             background-image: linear-gradient(to bottom right, greenyellow , azure);
-            margin-top: -30px;
-            margin-bottom: 25px;
+            margin-top: -50px;
+            margin-bottom: 15px;
         }
         div.header {
             /*background-color: #4CAF50;*/
@@ -111,12 +112,37 @@
             font-variant: small-caps;
             line-height: 200px;
         }
+        video{
+            position: fixed;
+            right: 0px;
+            bottom: 0px;
+            min-width: 100%;
+            min-height: 100%;
+            height: auto;
+            width: auto;
+            /*加滤镜*/
+            /*filter: blur(15px); //背景模糊设置 */
+            /*-webkit-filter: grayscale(100%);*/
+            /*filter:grayscale(100%); //背景灰度设置*/
+            z-index:-11
+        }
+        source{
+            min-width: 100%;
+            min-height: 100%;
+            height: auto;
+            width: auto;
+        }
     </style>
 </head>
 
 
 
 <body class="body">
+<video autoplay loop muted>
+    <source src="video/movie.mp4" type="video/mp4"  />
+    Your browser does not support the video tag.
+</video>
+
 <div class="head_img">
     <a href="http://www.itc.ynu.edu.cn/"> <img src="img/headimg.jpg" class="head_img" alt="headimg.jpg"></a>
 </div>
