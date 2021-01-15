@@ -5,34 +5,27 @@
     <script src="language.js"></script>
     <!-- <script src="js/script.js"></script> -->
     <style>
-        .margin{
-            margin-top: auto;
-        }
         .body{
-            /* background-image: url(imgoverseas/bgcolor.gif); */
-            background-repeat:repeat-y;
-            background-color: floralwhite;
             padding: 0;
             width: 100%;
-
+            margin: 0 auto;
         }
         .head_img{
             width: 100%;
             height: auto;
-            border-radius: 15px 15px 15px 15px;
+            border-radius: 0;
         }
         .grad1 {
-            width: 100%;
+            width: 90%;
             height: 25px;
-            background-color: red; /* 不支持线性的时候显示 */
-            background-image: linear-gradient(to top right, rgba(249,235,234,0.9) , white);
+            background-image: linear-gradient(to right, lightcyan, white);
             /*box-shadow: 0 0 70px 30px rgb(49, 154, 67) inset;*/
-            border-radius: 15px 15px 15px 15px;
-            border-color:white ;
+            border: none;
             font-family: 方正姚体;
             font-size: 35px;
             line-height: 45px;
-            padding: 10px;
+            margin-left: 10px;
+            padding: 0px;
             text-transform: uppercase;
         }
         .footer{
@@ -46,9 +39,8 @@
         .table{
             border-color: aquamarine;
             /* background-image: url(imgoverseas/1.jpg); */
-            background-size: auto;
-            width: 100%;
-            margin-top: 0;
+            width: 95%;
+            margin: 0 auto;
         }
         .footimg {
             width: 100%;
@@ -120,6 +112,12 @@
 <body class="body">
 <div class="head_img">
     <a href="http://www.itc.ynu.edu.cn/"> <img src="img/headimg.jpg" class="head_img" alt="headimg.jpg"></a>
+</div>
+
+<div class="card" style="box-shadow: none;">
+    <div class="header" style="border-radius: 0; margin-top: 40px; background-image: linear-gradient(to right, lightcoral, orangered)">
+        <p style="line-height: 50px; font-size: 30px; text-align: left">During the winter holiday (January 18th - March 3rd), we will suspend the processing of all kinds of online applications and concentrate on the processing of work orders on Monday and Thursday. Sorry for the inconvenience!</p>
+    </div>
 </div>
 
 <!--    1.统一身份认证绑定手机：在校、外聘-->
