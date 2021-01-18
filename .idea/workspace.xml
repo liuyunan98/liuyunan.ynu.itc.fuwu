@@ -30,7 +30,6 @@
     <list default="true" id="41320060-4586-43c8-959a-cd5f7cbe6292" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/overseas.html" beforeDir="false" afterPath="$PROJECT_DIR$/overseas.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +55,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="liveEdit" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -64,6 +63,16 @@
       <recent name="C:\Users\yunan\Documents\GitHub\liuyunan.ynu.itc.fuwu\img" />
       <recent name="C:\Users\yunan\Documents\GitHub\liuyunan.ynu.itc.fuwu\imgoverseas" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" engineId="72dc1632-a08c-4102-99e9-7de2364589b0" uri="http://localhost:63342/liuyunan.ynu.itc.fuwu/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -110,6 +119,10 @@
       <workItem from="1610725940825" duration="1062000" />
       <workItem from="1610954038393" duration="1783000" />
       <workItem from="1610955859169" duration="851000" />
+      <workItem from="1610962674893" duration="304000" />
+      <workItem from="1610962983391" duration="379000" />
+      <workItem from="1610963391567" duration="146000" />
+      <workItem from="1610963541104" duration="7097000" />
     </task>
     <servers />
   </component>
@@ -129,10 +142,26 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1112" y="369" key="#Web_浏览器" timestamp="1610963764202">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1112" y="369" key="#Web_浏览器/0.0.1920.1050@0.0.1920.1050" timestamp="1610963764202" />
+    <state x="758" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610963706749">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="758" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1610963706749" />
     <state x="656" y="325" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608811728451">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="656" y="325" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1608811728451" />
+    <state x="1257" y="352" key="FileChooserDialogImpl" timestamp="1610962945743">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1257" y="352" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1610962945743" />
+    <state x="730" y="288" key="SettingsEditor" timestamp="1610963355082">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="730" y="288" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1610963355082" />
     <state x="525" y="245" key="run.anything.popup" timestamp="1608795173678">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

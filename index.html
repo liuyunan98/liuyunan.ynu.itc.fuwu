@@ -44,6 +44,7 @@
             width: 100%;
             height: auto;
             border-radius:15px;
+            margin-bottom: 100px;
 
         }
         /*div.polaroid {*/
@@ -101,6 +102,47 @@
             font-variant: small-caps;
             line-height: 200px;
         }
+        ul {
+            /*移除列表前的标志*/
+            list-style-type: none;
+            margin: 0px auto;
+            padding: 5px;
+            width: 100%;
+            height: 70px;
+            background: none;
+            position: fixed;
+            overflow: hidden;
+            bottom: 0;
+        }
+        li{
+            float: left;
+        }
+
+        li a {
+            /*显示块元素的链接，整体变为可点击区域，允许指定宽度*/
+            display: block;
+            float: left;
+            color: #000;
+            padding: 8px 16px;
+            text-decoration: none;
+            text-align: center;
+            font-size: 40px;
+            flex-direction: row;
+            text-decoration: lightcoral;
+            border-radius: 40px 0 40px 0;
+            background-image: linear-gradient(to right, peachpuff, pink);
+        }
+
+        li a.active {
+            background-color: lightcoral;
+            color: black;
+
+        }
+
+        li a:hover:not(.active) {
+            background-color: #555;
+            color: white;
+        }
     </style>
 </head>
 
@@ -116,6 +158,16 @@
         <p style="line-height: 100px; font-size: 35px">寒假(1/18日-3/3日)期间我们将暂缓处理各类线上申请，在每周一及周四集中处理工单，给您带来不便，敬请谅解！</p>
     </div>
 </div>
+
+<ul>
+    <li><a class="active" href="#tongyi">统一身份</a></li>
+    <li><a href="#netcount">VPN</a></li>
+    <li><a href="#onecard">一卡通</a></li>
+    <li><a href="#email">邮箱</a></li>
+    <li><a href="#problem">故障</a></li>
+    <li><a href="#bus">校历 </a></li>
+    <li><a href="#feedback" style="float: right">反馈 </a></li>
+</ul>
 <!--    1.统一身份认证绑定手机：在校、外聘-->
 <!-- <table class="table">
     <tr>
@@ -124,7 +176,7 @@
     </tr>
 </table> -->
 <!-- ------------------------------------------- -->
-<h1 class="grad1">统一身份认证服务</h1>
+<h1 class="grad1"><a name="tongyi"></a>统一身份认证服务</h1>
 <table class="table">
     <tr>
         <th rowspan="2">
@@ -167,7 +219,7 @@
         </td>
     </tr>
 </table>
-<h1 class="grad1">上网账号&VPN业务</h1>
+<h1 class="grad1"><a name="netcount"></a>上网账号&VPN业务</h1>
 
 <table class="table">
     <tr>
@@ -251,7 +303,7 @@
 
 </table>
 
-<h1 class="grad1">一卡通类业务</h1>
+<h1 class="grad1"><a name="onecard"></a>一卡通类业务</h1>
 <table class="table">
     <tr>
         <!--        <td>-->
@@ -311,7 +363,7 @@
     </tr>
 </table>
 
-<h1 class="grad1">云大电子邮箱类业务</h1>
+<h1 class="grad1"><a name="email"></a>云大电子邮箱类业务</h1>
 <table class="table">
     <tr>
         <!--        <td>-->
@@ -404,7 +456,7 @@
     </tr>
 </table>
 
-<h1 class="grad1">故障报修类业务</h1>
+<h1 class="grad1"><a name="problem"></a>故障报修类业务</h1>
 <table class="table">
     <tr>
         <td>
@@ -440,7 +492,7 @@
         <!--        </td>-->
     </tr>
 </table>
-<h1 class="grad1">校历校车纵览</h1>
+<h1 class="grad1"><a name="bus"></a>校历校车纵览</h1>
 <table class="table">
     <tr>
         <td>
@@ -465,7 +517,7 @@
         </td>
     </tr>
 </table>
-<h1 class="grad1">意见及反馈</h1>
+<h1 class="grad1"> <a name="feedback"></a>意见及反馈</h1>
 <table class="table">
     <tr>
         <td>
