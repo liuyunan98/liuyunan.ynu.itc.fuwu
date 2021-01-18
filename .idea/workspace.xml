@@ -28,7 +28,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41320060-4586-43c8-959a-cd5f7cbe6292" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/img/一卡通.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/反馈.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/故障.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/校历.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/网络.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/身份认证.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/邮箱.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1.tongyi_zaixiao.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/10.email_unlock.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/11.email_expansion.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/12.question_net.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/13.question_app.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/14.feedback.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/15.xiaoli.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/16.xiaoche.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2.tongyi_waipin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/3.tongyi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/4.shangwang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/5.vpn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/6.yikatong.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/7.yikatong_download.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/8.zoom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/9.email_count.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bgcolor.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/itc.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +85,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitHub\liuyunan.ynu.itc.fuwu\img" />
       <recent name="C:\Users\yunan\Documents\GitHub\liuyunan.ynu.itc.fuwu\img" />
       <recent name="C:\Users\yunan\Documents\GitHub\liuyunan.ynu.itc.fuwu\imgoverseas" />
     </key>
@@ -126,6 +152,7 @@
       <workItem from="1610977325083" duration="130000" />
       <workItem from="1610977885756" duration="676000" />
       <workItem from="1610978605362" duration="166000" />
+      <workItem from="1610979097202" duration="1554000" />
     </task>
     <servers />
   </component>
